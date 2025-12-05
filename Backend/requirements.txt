@@ -1,0 +1,11 @@
+# Requirements for Dojo-Backend
+# Listed packages requested by the user. These are left unpinned so `pip install -r requirements.txt`
+# will install the latest compatible versions. If you prefer pinned versions, replace package names
+# with e.g. package==1.2.3
+fastapi
+supermemory
+openai
+openai-agents
+pydantic
+typing
+uvicorn[standard]
